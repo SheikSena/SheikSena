@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SheikSena
 - 👀 I’m interested in Java, JavaScript, Spring Boot, React-Js
 - 🌱 I’m currently learning React-JS
-- 📫 Email Id: sheiksenareddy@gmai.com
+- 📫 Email Id: sheiksenareddy@gmai.com, LinkedIn: linkedin.com/in/sheiksenareddy
 
 <!---
 SheikSena/SheikSena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
