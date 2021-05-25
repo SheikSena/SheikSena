@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SheikSena
 - 👀 I’m interested in Java, JavaScript, Spring Boot, React-Js
 - 🌱 I’m currently learning React-JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email Id: sheiksenareddy@gmai.com
 
 <!---
